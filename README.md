@@ -9,5 +9,5 @@
 ![shenwu](https://github.com/linyuang/Text-shenWu/raw/master/gif/differentSize.gif "在不同大小浏览器中的展示效果")<br>
 *链接点击效果<br>
 ![shenwu](https://github.com/linyuang/Text-shenWu/raw/master/gif/click.gif "链接点击效果图")<br>
-*轮播图功能展示<vr>
+*轮播图功能展示<br>
 ![shenwu](https://github.com/linyuang/Text-shenWu/raw/master/gif/slidePic.gif "轮播图效果")<br>
